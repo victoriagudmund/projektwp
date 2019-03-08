@@ -1,0 +1,15 @@
+/*
+Theme Name: child-of-twentyseventeen
+Desription: Twenty Seventeen Child Theme
+Author: Victoria Gudmund Andersen
+Template: twentyseventeen
+*/
+
+button, input[type="button"], input[type="submit"] {
+    background-color: #81000d;		
+	}
+
+.site-footer{
+	border-top: 2px solid #ddd;
+	background-color: #eee;
+}
